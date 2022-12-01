@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASOsipov7493
+- 👋 Hi
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on https://mentor-city.com
